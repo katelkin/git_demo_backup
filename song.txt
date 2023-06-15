@@ -16,6 +16,13 @@ edited for the feature branch second step
 
 
 
+
 ******************************
 added for conflicts resolution test
 ******************************
+
+----------------------------------------------------
+feature branch conflict resolving example
+----------------------------------------------------
+
+
