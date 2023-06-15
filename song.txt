@@ -13,3 +13,7 @@ edited for the feature branch
 
 
 edited for the feature branch second step
+----------------------------------------------------
+feature branch conflict resolving example
+----------------------------------------------------
+
