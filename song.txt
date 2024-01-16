@@ -3,29 +3,6 @@ wall of shields
 standing strong 
 on this their chosen battle field
 
-FEATURE BRANCH EDIT FOR THE NON FF MERGE!!!
-
-**************************************
-
-+++
-
-edited for the feature branch
-
-
-edited for the feature branch second step
-
-
-
-
-******************************
-added for conflicts resolution test
-******************************
-
-----------------------------------------------------
-feature branch conflict resolving example
-----------------------------------------------------
-
-
-added tag VER1
+STASHING!
 
 
